@@ -2,7 +2,7 @@
   "name": "sufficentdaikon-black-void",
   "displayName": "Black Void",
   "description": "a theme for those of us that code late into the night, easy on the eyes with colorful syntax highlighting",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.89.0"
   },
