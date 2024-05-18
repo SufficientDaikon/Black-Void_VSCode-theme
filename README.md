@@ -1,4 +1,7 @@
-# Dark++ Theme
+# Black void Theme
+because you deserve a sleek looking and colorfull dark theme that is actaully dark
+
+![code](https://github.com/SufficientDaikon/Black-Void_VSCode-theme/assets/65625347/5d9ca18b-10f2-41c4-ba27-0e5bfe850481)
 
 🚀 Installation
 Open the Extensions sidebar in VS Code
