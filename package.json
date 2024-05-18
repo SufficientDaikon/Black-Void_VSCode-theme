@@ -1,0 +1,21 @@
+{
+  "name": "sufficentdaikon-Darkplusplus",
+  "displayName": "Dark++",
+  "description": "a theme for those of us that code late into the night, easy on the eyes with colorful syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark++-color-theme.json"
+      }
+    ]
+  }
+}
