@@ -1,21 +1,46 @@
 {
-  "name": "sufficentdaikon-Darkplusplus",
-  "displayName": "Dark++",
+  "name": "sufficentdaikon-darkpp",
+  "displayName": "Black Void",
   "description": "a theme for those of us that code late into the night, easy on the eyes with colorful syntax highlighting",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
   },
+  "publisher": "SufficientDaikon",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark theme",
+    "super dark",
+    "colorful",
+    "Elegant",
+    "Productivity",
+    "night",
+    "Readable",
+    "Modern",
+    "Eye-care",
+    "Syntax Highlighting"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SufficientDaikon/Darkpp_VSCode-theme"
+  },
+  "galleryBanner": {
+    "color": "#0c0c0c",
+    "theme": "dark"
+  },
+  "badges": [],
   "contributes": {
     "themes": [
       {
-        "label": "Dark++",
+        "label": "Black Void",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark++-color-theme.json"
+        "path": "./themes/Black-Void-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
