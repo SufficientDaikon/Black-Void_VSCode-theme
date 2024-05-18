@@ -1,5 +1,5 @@
 {
-  "name": "sufficentdaikon-darkpp",
+  "name": "sufficentdaikon-black-void",
   "displayName": "Black Void",
   "description": "a theme for those of us that code late into the night, easy on the eyes with colorful syntax highlighting",
   "version": "0.0.1",
@@ -24,12 +24,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SufficientDaikon/Darkpp_VSCode-theme"
+    "url": "https://github.com/SufficientDaikon/Black-Void_VSCode-theme"
   },
   "galleryBanner": {
     "color": "#0c0c0c",
     "theme": "dark"
   },
+  "icon": "images/logo.jpg",
   "badges": [],
   "contributes": {
     "themes": [

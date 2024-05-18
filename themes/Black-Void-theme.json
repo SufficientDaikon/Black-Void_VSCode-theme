@@ -436,7 +436,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#cfbfbf59"
+				"foreground": "#595958"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 				"punctuation.definition.string.end.python"
 			],
 			"settings": {
-				"foreground": "#a9dc7660"
+				"foreground": "#bedcb2"
 			}
 		},
 		{

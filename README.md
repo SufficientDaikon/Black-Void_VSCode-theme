@@ -2,7 +2,7 @@
 
 🚀 Installation
 Open the Extensions sidebar in VS Code
-Search for Bearded
+Search for Black Void
 Click Install
 Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
 Select Preferences: Color Theme and choose Bearded Theme.
