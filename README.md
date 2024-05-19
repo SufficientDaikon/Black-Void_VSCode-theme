@@ -1,5 +1,5 @@
 <h1 align="center">Black Void Theme</h1>
-<p align="center">because you deserve a sleek looking and colorful dark theme that isn't grey</p>
+<p align="center">because you deserve a sleek, modern looking theme, with vibrant syntax highlighting</p>
 
 # Code Snippet
 ![code](https://github.com/SufficientDaikon/Black-Void_VSCode-theme/assets/65625347/5d9ca18b-10f2-41c4-ba27-0e5bfe850481)
