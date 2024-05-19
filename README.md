@@ -12,7 +12,7 @@
 - 👀 Designed to be easy on the eye for those late night coding sessions
 
 
-- 🚀 Installation
+## 🚀 Installation
 - Open the Extensions sidebar in VS Code
 - Search for Black Void
 - Click Install
