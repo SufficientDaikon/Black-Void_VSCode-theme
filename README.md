@@ -11,14 +11,13 @@
 - 🌙 Super dark editor color scheme
 - 👀 Designed to be easy on the eye for those late night coding sessions
 
-<p>
-🚀 Installation
-Open the Extensions sidebar in VS Code
-Search for Black Void
-Click Install
-Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-Select Preferences: Color Theme and choose Bearded Theme.
-</p>
+
+- 🚀 Installation
+- Open the Extensions sidebar in VS Code
+- Search for Black Void
+- Click Install
+- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+- Select Preferences: Color Theme and choose Bearded Theme.
 
 📄 License
 This theme is released under the MIT License.
