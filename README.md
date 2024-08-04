@@ -17,7 +17,7 @@
 - Search for Black Void
 - Click Install
 - Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-- Select Preferences: Color Theme and choose Bearded Theme.
+- Select Preferences: Color Theme and choose Black Void.
 
 📄 License
 This theme is released under the MIT License.
